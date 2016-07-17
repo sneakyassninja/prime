@@ -1,0 +1,3 @@
+[submodule "ext/embrace"]
+	path = ext/embrace
+	url = https://github.com/fusterclucked/embrace.git
